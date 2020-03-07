@@ -30,7 +30,7 @@ ops-name-color: 'c'
 nickname-prefix: ''
 
 # The maximum length allowed in nicknames. The nickname prefix is included in this.
-max-nick-length: 99999
+max-nick-length: 32767
 
 # When this option is enabled, nickname length checking will exclude color codes in player names.
 # ie: "&6Notch" has 7 characters (2 are part of a color code), a length of 5 is used when this option is set to true
@@ -80,7 +80,7 @@ teleport-delay: 0
 
 # The delay, in seconds, a player can't be attacked by other players after they have been teleported by a command.
 # This will also prevent the player attacking other players.
-teleport-invulnerability: 4
+teleport-invulnerability: 0
 
 # Whether to make all teleportations go to the center of the block; where the x and z coordinates decimal become .5
 teleport-to-center: true
@@ -91,7 +91,7 @@ heal-cooldown: 0
 # Near Radius
 # The default radius with /near
 # Used to use chat radius but we are going to make it separate.
-near-radius: 200
+near-radius: 25000
 
 # What to prevent from /item and /give.
 # e.g item-spawn-blacklist: 10,11,46
@@ -115,13 +115,13 @@ item-spawn-blacklist:
 permission-based-item-spawn: false
 
 # Mob limit on the /spawnmob command per execution.
-spawnmob-limit: 10
+spawnmob-limit: 25000
 
 # Shall we notify users when using /lightning?
 warn-on-smite: false
 
 # Shall we drop items instead of adding to inventory if the target inventory is full?
-drop-items-if-full: false
+drop-items-if-full: true
 
 # Essentials Mail Notification
 # Should we notify players if they have no new mail?
@@ -279,7 +279,7 @@ list:
     # To hide groups, set the group as hidden
     #default: hidden
     # Uncomment the line below to simply list all players with no grouping
-    Players: '*'
+    Anarchy: '*'
 
 # More output to the console.
 debug: false
@@ -289,7 +289,7 @@ debug: false
 # For example, to set language to English, set locale to en, to use the file "messages_en.properties".
 # Don't forget to remove the # in front of the line.
 # For more information, visit http://wiki.ess3.net/wiki/Locale
-#locale: en
+locale: en
 
 # Turn off god mode when people leave the server.
 remove-god-on-disconnect: false
@@ -462,7 +462,7 @@ teleport-back-when-freed-from-jail: true
 
 # Set the timeout, in seconds for players to accept a tpa before the request is cancelled.
 # Set to 0 for no timeout.
-tpa-accept-cancellation: 120
+tpa-accept-cancellation: 0
 
 # Allow players to set hats by clicking on their helmet slot.
 allow-direct-hat: true
@@ -546,17 +546,17 @@ currency-symbol: '$'
 
 # Set the maximum amount of money a player can have.
 # The amount is always limited to 10 trillion because of the limitations of a java double.
-max-money: 10000000000000
+max-money: 1000000000000000000000000000000000000000000000000000000000000000000000000000000
 
 # Set the minimum amount of money a player can have (must be above the negative of max-money).
 # Setting this to 0, will disable overdrafts/loans completely.  Users need 'essentials.eco.loan' perm to go below 0.
-min-money: -10000
+min-money: -10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 
 # Enable this to log all interactions with trade/buy/sell signs and sell command.
 economy-log-enabled: false
 
 # Minimum acceptable amount to be used in /pay.
-minimum-pay-amount: 0.001
+minimum-pay-amount: 0.0000000001
 
 # The format of currency, excluding symbols. See currency-symbol-format-locale for symbol configuration.
 #
