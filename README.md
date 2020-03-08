@@ -16,4 +16,4 @@ Important: You will have to edit the DiscordSRV configuration in order to make t
 Important: This server is using PaperSpigot. DO NOT ATTEMPT CHANGING THIS TO SPIGOT. The extras plugin will not work because of that.
 
 Version: 1.12.2
-Contributors: AnotherGuy19 (https://github.com/AnotherGuy19), Michelle (https://twitter.com/Michelle2632), Keneth, Mathias (https://github.com/mathiascode)
+Contributors: AnotherGuy19 (https://github.com/AnotherGuy19), Michelle (https://twitch.tv/Michelle2632), Keneth, Mathias (https://github.com/mathiascode)
