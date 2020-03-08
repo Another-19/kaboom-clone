@@ -1,5 +1,7 @@
 # Kaboom Clone - Kaboom Discovery Community
 
+Edited: 01-03-2020
+
 Discord: Kaboom Clone is mostly used for Kaboom Discovery Community (https://discord.gg/s7tR292). 
 
 Reminder: This server will mostly NOT be updated since the /execute command was blocked from using it.
