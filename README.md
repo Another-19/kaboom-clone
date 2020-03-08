@@ -10,8 +10,7 @@ Reminder: All blocked commands are located in commands.yml file. You can unblock
 Information: Any in-game actions, commands and information are located in the #console channel (https://discordapp.com/channels/606489724080750592/644057230706212875/644060921743933440). You can run any commands by typing the command on the channel.
 Information: Kaboom Clone also allows you to create your own world by using the plugin Multiverse (https://dev.bukkit.org/projects/multiverse-core).
 
-Warning: This is a forked version. THIS WILL NOT MATCH AS THE ORIGINAL ONE. I have set a server schedule that restart every hour.
-Warning: Every kaboom clones may have a high risk of getting IP LEAKING. I recommended to use a VPN before JOINING ANY SERVERS.
+Warning: Any kaboom clones may have A HIGH RISK OF GETTING IP-LEAKED. I recommended using a VPN before JOINING those servers.
 
 Important: You will have to edit the DiscordSRV configuration in order to make the discord bot working as fine.
 Important: This server is using PaperSpigot. DO NOT ATTEMPT CHANGING THIS TO SPIGOT. The extras plugin will not work because of that.
