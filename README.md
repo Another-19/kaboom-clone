@@ -1,19 +1,13 @@
-# Kaboom Clone - Kaboom Discovery Community
+# Kaboom Clone - Kaboom Discovery Community (Private)
 
-Edited: 01-03-2020
+Edited: 10-03-2020
 
-Discord: Kaboom Clone is mostly used for Kaboom Discovery Community (https://discord.gg/s7tR292). 
+Reminder: This server will mostly NOT be updated since the /execute command was blocked from using it. All blocked commands are located in commands.yml file. You can unblock them by editing them whatever you want.
 
-Reminder: This server will mostly NOT be updated since the /execute command was blocked from using it.
-Reminder: All blocked commands are located in commands.yml file. You can unblock them by editing them whatever you want.
+Information: Any in-game actions, commands and information are logged in the logs folder. You can run any commands by typing the command on the console. Kaboom Clone also allows you to create your own world by using the plugin Multiverse (https://dev.bukkit.org/projects/multiverse-core).
 
-Information: Any in-game actions, commands and information are located in the #console channel (https://discordapp.com/channels/606489724080750592/644057230706212875/644060921743933440). You can run any commands by typing the command on the channel.
-Information: Kaboom Clone also allows you to create your own world by using the plugin Multiverse (https://dev.bukkit.org/projects/multiverse-core).
+Warning: Any kaboom clones may have a HIGH RISK of getting ip leaking. I recommended using a VPN before JOINING those servers.
 
-Warning: Any kaboom clones may have A HIGH RISK OF GETTING IP-LEAKED. I recommended using a VPN before JOINING those servers.
+Important: You will have to edit the DiscordSRV configuration in order to make the discord bot to show the console logs. This server used PaperSpigot 1.13.2. Please don't attempt changing to SPIGOT. Some commands from the extras plugin will not work because of this.
 
-Important: You will have to edit the DiscordSRV configuration in order to make the discord bot working as fine.
-Important: This server is using PaperSpigot. DO NOT ATTEMPT CHANGING THIS TO SPIGOT. The extras plugin will not work because of that.
-
-Version: 1.12.2
-Contributors: AnotherGuy19 (https://github.com/AnotherGuy19), Michelle (https://twitch.tv/Michelle2632), Keneth, Mathias (https://github.com/mathiascode)
+Contributors: AnotherGuy19 (https://github.com/AnotherGuy19), Michelle (https://twitch.tv/Michelle2632), Keneth (Inactive), Mathias (https://github.com/mathiascode)
