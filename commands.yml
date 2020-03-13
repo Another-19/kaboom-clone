@@ -13,8 +13,6 @@
 command-block-overrides: []
 ignore-vanilla-permissions: false
 aliases:
-  stop:
-  - save-all
   ban:
   - minecraft:ban $1-
   clear:
