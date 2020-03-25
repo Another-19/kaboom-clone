@@ -10,4 +10,4 @@ Warning: Any kaboom clones may have a HIGH RISK of getting ip leaking. I recomme
 
 Important: You will have to edit the DiscordSRV configuration in order to make the discord bot to show the console logs. This server used PaperSpigot 1.13.2. Please don't attempt changing to SPIGOT. Some commands from the extras plugin will not work because of this.
 
-Contributors: AnotherGuy19 (https://github.com/AnotherGuy19), Michelle (https://twitch.tv/Michelle2632), Keneth (Inactive), Mathias (https://github.com/mathiascode)
+Contributors: AnotherGuy19 (https://github.com/AnotherGuy19), Michelle (https://twitch.tv/Michelle2632), Keneth (Founder of Kaboom Clone), Mathias (https://github.com/mathiascode)
